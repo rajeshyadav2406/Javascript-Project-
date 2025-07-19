@@ -39,7 +39,6 @@ The user can interact via prompts to check balance, withdraw funds, or deposit m
 
 - **Account PIN:** `1234`  
 - **Initial Balance:** `₹5000`
-
 ---
 
 ## 📂 Files
@@ -51,4 +50,4 @@ The user can interact via prompts to check balance, withdraw funds, or deposit m
 ## 🙌 Author
 
 Made with ❤️ by Rajesh  
-GitHub: [@rajeshyadav7281](https://github.com/rajeshyadav7281)
+GitHub: [@rajeshyadav2406](https://github.com/rajeshyadav7281)
